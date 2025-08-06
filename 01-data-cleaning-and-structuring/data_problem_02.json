@@ -1,0 +1,31 @@
+{
+    "users": [
+    {"id": 1, "name": "Amit", "friends": [2, 3], "liked_pages": [101]},
+    {"id": 2, "name": "Priya", "friends": [1, 4], "liked_pages": [102]},
+    {"id": 3, "name": "", "friends": [1], "liked_pages": [101, 103]},         
+    {"id": 4, "name": "Sara", "friends": [2, 2], "liked_pages": [104]},        
+    {"id": 5, "name": "Amit", "friends": [], "liked_pages": []},             
+    {"id": 6, "name": " ", "friends": [1], "liked_pages": [101]},           
+    {"id": 7, "name": "Meera", "friends": [8, 8], "liked_pages": [102]},     
+    {"id": 8, "name": "Arjun", "friends": [7], "liked_pages": [105, 105]},   
+    {"id": 9, "name": "Neha", "friends": [10], "liked_pages": [106]},
+    {"id": 10, "name": "Vikram", "friends": [9, 11], "liked_pages": [106]},
+    {"id": 11, "name": "Anjali", "friends": [10], "liked_pages": []},        
+    {"id": 12, "name": "Dev", "friends": [], "liked_pages": [103]},          
+    {"id": 13, "name": "Sneha", "friends": [14, 14], "liked_pages": [107]},    
+    {"id": 14, "name": "Rohit", "friends": [13], "liked_pages": [103]},
+    {"id": 15, "name": "", "friends": [], "liked_pages": []}                 
+    ],
+    "pages": [
+    {"id": 101, "name": "Python Developers"},
+    {"id": 102, "name": "Data Science Enthusiasts"},
+    {"id": 103, "name": "AI & ML Community"},
+    {"id": 104, "name": "Web Dev Hub"},
+    {"id": 104, "name": "Web Development"},         
+    {"id": 105, "name": "Cloud Computing"},
+    {"id": 106, "name": "Big Data Analytics"},
+    {"id": 107, "name": "Deep Learning Lab"},
+    {"id": 108, "name": "DevOps Central"},
+    {"id": 109, "name": "Statistics Community"}
+    ]
+}
