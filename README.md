@@ -6,8 +6,8 @@ This repository contains practical work and mini-projects I'm building **while l
 
 ```
 .
-├── 01-data-cleaning-project/     # First mini-project: data cleaning & EDA
-├── 02-numpy-pandas/              # Practice with arrays and tabular data
+├── 01-data-cleaning-and-structuring     # doing basic data cleaning & structuring
+├── 02-numpy-pandas/                     # Practice with arrays and tabular data
 ├── 03-visualization/             # Data visualization using Matplotlib, Seaborn
 ├── 04-data-collection/           # Web scraping, APIs, CSV/Excel loading
 ├── 05-statistics-ml/             # Stats and basic ML models
